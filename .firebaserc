@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "ng-blog-4a163"
+  },
+  "targets": {
+    "ng-blog-4a163": {
+      "hosting": {
+        "ng-blog": [
+          "ng-blog-4a163"
+        ]
+      }
+    }
+  }
+}
